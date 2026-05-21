@@ -103,6 +103,30 @@ Some issues encountered during the project:
 
 ## Screenshots
 
+### Proxmox Virtualization Environment
+
+![Proxmox](screenshots/proxmox.png)
+
+### Uptime Kuma Monitoring Dashboard
+
+![Uptime Kuma](screenshots/Uptime-kuma.png)
+
+### Docker Containers
+
+![Docker Containers](screenshots/containers.png)
+
+### Resource Monitoring with btop
+
+![btop](screenshots/btop.png)
+
+### Homelab Homepage / Reverse Proxy
+
+![Homepage](screenshots/homepage.png)
+
+### Minecraft Server Logs
+
+![Minecraft Logs](screenshots/minecraftlogs.png)
+
 
 
 ---
